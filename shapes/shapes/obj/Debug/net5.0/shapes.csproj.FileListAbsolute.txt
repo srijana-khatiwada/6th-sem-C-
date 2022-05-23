@@ -1,0 +1,16 @@
+/Users/srijanakhatiwada/Projects/shapes/shapes/bin/Debug/net5.0/shapes
+/Users/srijanakhatiwada/Projects/shapes/shapes/bin/Debug/net5.0/shapes.deps.json
+/Users/srijanakhatiwada/Projects/shapes/shapes/bin/Debug/net5.0/shapes.runtimeconfig.json
+/Users/srijanakhatiwada/Projects/shapes/shapes/bin/Debug/net5.0/shapes.runtimeconfig.dev.json
+/Users/srijanakhatiwada/Projects/shapes/shapes/bin/Debug/net5.0/shapes.dll
+/Users/srijanakhatiwada/Projects/shapes/shapes/bin/Debug/net5.0/shapes.pdb
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/shapes.csproj.AssemblyReference.cache
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/shapes.AssemblyInfoInputs.cache
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/shapes.AssemblyInfo.cs
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/shapes.csproj.CoreCompileInputs.cache
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/shapes.dll
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/refint/shapes.dll
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/shapes.pdb
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/shapes.genruntimeconfig.cache
+/Users/srijanakhatiwada/Projects/shapes/shapes/obj/Debug/net5.0/ref/shapes.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lhXp7IYGDrTixFI8l5ujHCJFz8Wtnt7A1QQ1cbnt/31hwcYAiOYVJUYaquDecothcT+wsqjC70PfqHrM/megbA==",
+  "success": true,
+  "projectFilePath": "/Users/srijanakhatiwada/Projects/persons/persons/persons.csproj",
+  "expectedPackageFiles": [
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

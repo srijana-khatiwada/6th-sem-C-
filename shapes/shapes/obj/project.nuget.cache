@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bovB8oDSchvsY1MCmOQtHS7IQkjCk6p8L3fmESfdrEYr1xfiBTYB2Xa/idD+cMrL3ZlWU4zeRWpCAFE/gXBPUA==",
+  "success": true,
+  "projectFilePath": "/Users/srijanakhatiwada/Projects/shapes/shapes/shapes.csproj",
+  "expectedPackageFiles": [
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512",
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

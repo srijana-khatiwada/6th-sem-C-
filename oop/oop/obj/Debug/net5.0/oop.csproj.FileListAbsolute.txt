@@ -1,0 +1,16 @@
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/oop.csproj.AssemblyReference.cache
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/oop.AssemblyInfoInputs.cache
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/oop.AssemblyInfo.cs
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/oop.csproj.CoreCompileInputs.cache
+/Users/srijanakhatiwada/Projects/oop/oop/bin/Debug/net5.0/oop
+/Users/srijanakhatiwada/Projects/oop/oop/bin/Debug/net5.0/oop.deps.json
+/Users/srijanakhatiwada/Projects/oop/oop/bin/Debug/net5.0/oop.runtimeconfig.json
+/Users/srijanakhatiwada/Projects/oop/oop/bin/Debug/net5.0/oop.runtimeconfig.dev.json
+/Users/srijanakhatiwada/Projects/oop/oop/bin/Debug/net5.0/oop.dll
+/Users/srijanakhatiwada/Projects/oop/oop/bin/Debug/net5.0/oop.pdb
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/oop.dll
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/refint/oop.dll
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/oop.pdb
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/oop.genruntimeconfig.cache
+/Users/srijanakhatiwada/Projects/oop/oop/obj/Debug/net5.0/ref/oop.dll

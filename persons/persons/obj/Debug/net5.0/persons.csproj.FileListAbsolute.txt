@@ -1,0 +1,16 @@
+/Users/srijanakhatiwada/Projects/persons/persons/bin/Debug/net5.0/persons
+/Users/srijanakhatiwada/Projects/persons/persons/bin/Debug/net5.0/persons.deps.json
+/Users/srijanakhatiwada/Projects/persons/persons/bin/Debug/net5.0/persons.runtimeconfig.json
+/Users/srijanakhatiwada/Projects/persons/persons/bin/Debug/net5.0/persons.runtimeconfig.dev.json
+/Users/srijanakhatiwada/Projects/persons/persons/bin/Debug/net5.0/persons.dll
+/Users/srijanakhatiwada/Projects/persons/persons/bin/Debug/net5.0/persons.pdb
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/persons.csproj.AssemblyReference.cache
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/persons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/persons.AssemblyInfoInputs.cache
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/persons.AssemblyInfo.cs
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/persons.csproj.CoreCompileInputs.cache
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/persons.dll
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/refint/persons.dll
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/persons.pdb
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/persons.genruntimeconfig.cache
+/Users/srijanakhatiwada/Projects/persons/persons/obj/Debug/net5.0/ref/persons.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T1uRuhXR5CpbJe4I4tk0883VyE4Cf+7Rfp6Y7yU5ZY64RSqHbGawyH7EmiVygFiA2lZVZDw64Ihqj2x4Q80ogg==",
+  "success": true,
+  "projectFilePath": "/Users/srijanakhatiwada/Projects/oop/oop/oop.csproj",
+  "expectedPackageFiles": [
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512",
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
