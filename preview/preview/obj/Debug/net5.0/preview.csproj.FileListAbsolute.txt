@@ -1,0 +1,16 @@
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/preview
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/preview.deps.json
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/preview.runtimeconfig.json
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/preview.runtimeconfig.dev.json
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/preview.dll
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/preview.pdb
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/preview.csproj.AssemblyReference.cache
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/preview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/preview.AssemblyInfoInputs.cache
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/preview.AssemblyInfo.cs
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/preview.csproj.CoreCompileInputs.cache
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/preview.dll
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/refint/preview.dll
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/preview.pdb
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/preview.genruntimeconfig.cache
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/ref/preview.dll

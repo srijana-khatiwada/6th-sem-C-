@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2F+UgilYndxETlEiyUWTDT2EzzWGPPeNObeQZ2ZU8SYClBniIaD8n0vCb3opVTf6TrPM7PzN9NE3yIh3ucC6g==",
+  "success": true,
+  "projectFilePath": "/Users/srijanakhatiwada/Projects/preview/preview/helloworld.csproj",
+  "expectedPackageFiles": [
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512",
+    "/Users/srijanakhatiwada/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

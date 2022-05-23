@@ -1,0 +1,16 @@
+/Users/srijanakhatiwada/Projects/lists/lists/bin/Debug/net5.0/lists
+/Users/srijanakhatiwada/Projects/lists/lists/bin/Debug/net5.0/lists.deps.json
+/Users/srijanakhatiwada/Projects/lists/lists/bin/Debug/net5.0/lists.runtimeconfig.json
+/Users/srijanakhatiwada/Projects/lists/lists/bin/Debug/net5.0/lists.runtimeconfig.dev.json
+/Users/srijanakhatiwada/Projects/lists/lists/bin/Debug/net5.0/lists.dll
+/Users/srijanakhatiwada/Projects/lists/lists/bin/Debug/net5.0/lists.pdb
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/lists.csproj.AssemblyReference.cache
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/lists.AssemblyInfoInputs.cache
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/lists.AssemblyInfo.cs
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/lists.csproj.CoreCompileInputs.cache
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/lists.dll
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/refint/lists.dll
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/lists.pdb
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/lists.genruntimeconfig.cache
+/Users/srijanakhatiwada/Projects/lists/lists/obj/Debug/net5.0/ref/lists.dll

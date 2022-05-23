@@ -1,0 +1,16 @@
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/helloworld
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/helloworld.deps.json
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/helloworld.runtimeconfig.json
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/helloworld.runtimeconfig.dev.json
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/helloworld.dll
+/Users/srijanakhatiwada/Projects/preview/preview/bin/Debug/net5.0/helloworld.pdb
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/helloworld.csproj.AssemblyReference.cache
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/helloworld.AssemblyInfoInputs.cache
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/helloworld.AssemblyInfo.cs
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/helloworld.dll
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/refint/helloworld.dll
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/helloworld.pdb
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/helloworld.genruntimeconfig.cache
+/Users/srijanakhatiwada/Projects/preview/preview/obj/Debug/net5.0/ref/helloworld.dll
